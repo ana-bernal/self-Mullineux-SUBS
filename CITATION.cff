@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Bernal
+    given-names: Ana
+    
+title: "Bijection BG-partitions and self-Mullineux partitions"
+version: 1
+keywords:
+  - "GAP"
+  - "Symmetric group"
+  - "Alternating group"
+  - "Basic sets"
+date-released: 2021-11-25
+repository-code: "https://github.com/ana-bernal/self-Mullineux-SUBS"
+references:
+- authors:
+  - family-names: Bernal
+    given-names: Ana
+    doi: 10.37236/9283
+    issue: 1
+    journal: "The Electronic Journal of Combinatorics"
+    title: "On Self-Mullineux and Self-Conjugate Partitions"
+    type: article
+    volume: 28
+    year: 2021
